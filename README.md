@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StatShaan27
+- 👋 Hi, I’m Shaan
 - 👀 I’m interested in gaining practical experience in Statistics, Computer Programming, Machine Learning and Mathematics.
 - 🌱 I’m currently pursing B.Stat from ISI Kolkata
 - 📫 How to reach me:
