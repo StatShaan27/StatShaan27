@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shaan
-- 👀 I’m interested in gaining practical experience in Statistics, Computer Programming, Machine Learning and Mathematics.
+- 👀 I’m interested in gaining practical experience in Probability, Statistics, Computer Programming, Machine Learning and Mathematics.
 - 🌱 I’m currently pursing B.Stat from ISI Kolkata
 - 📫 How to reach me:
 - Mail: mdsworld2006@gmail.com
